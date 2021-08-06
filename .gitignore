@@ -1,3 +1,4 @@
 **/archive
 **/*.v[0-9]*
 ex_react.wiki
+node_modules
